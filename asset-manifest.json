@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ewigtube/static/css/main.03dd2542.chunk.css",
+    "main.js": "/ewigtube/static/js/main.dda785db.chunk.js",
+    "main.js.map": "/ewigtube/static/js/main.dda785db.chunk.js.map",
+    "runtime~main.js": "/ewigtube/static/js/runtime~main.0a6676d0.js",
+    "runtime~main.js.map": "/ewigtube/static/js/runtime~main.0a6676d0.js.map",
+    "static/css/2.e2c00c93.chunk.css": "/ewigtube/static/css/2.e2c00c93.chunk.css",
+    "static/js/2.593f8cb9.chunk.js": "/ewigtube/static/js/2.593f8cb9.chunk.js",
+    "static/js/2.593f8cb9.chunk.js.map": "/ewigtube/static/js/2.593f8cb9.chunk.js.map",
+    "index.html": "/ewigtube/index.html",
+    "precache-manifest.f75f452fb065f1ce3053155c3af869fd.js": "/ewigtube/precache-manifest.f75f452fb065f1ce3053155c3af869fd.js",
+    "service-worker.js": "/ewigtube/service-worker.js",
+    "static/css/2.e2c00c93.chunk.css.map": "/ewigtube/static/css/2.e2c00c93.chunk.css.map",
+    "static/css/main.03dd2542.chunk.css.map": "/ewigtube/static/css/main.03dd2542.chunk.css.map",
+    "static/media/semantic.min.css": "/ewigtube/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.jpg": "/ewigtube/static/media/logo.e5520ae2.jpg"
+  }
+}
